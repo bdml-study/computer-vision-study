@@ -2,3 +2,5 @@
 **/__vscode__/
 **/__pycache__/
 **/data/
+**/*.jpg
+**/*.png

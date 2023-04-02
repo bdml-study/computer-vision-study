@@ -4,7 +4,6 @@
 
 ## Table of Contents
 1. [Basic Image Processing](01-basic-image-processing)
-2. [Spatial Transformation](02-spatial-transformation)
-3. [Feature Extraction: Basic Features](03-feature-extraction-basic-features)
-4. [Feature Extraction: Complex Features](04-feature-extraction-complex-features)
-5. [Applications](05-applications)
+2. [Feature Extraction: Basic Features](02-feature-extraction-basic-features)
+3. [Feature Extraction: Complex Features](03-feature-extraction-complex-features)
+4. [Applications](04-applications)
